@@ -1,2 +1,2 @@
-# vb6-auto-click
+# Auto Click
  
